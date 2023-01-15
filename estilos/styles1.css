@@ -1,0 +1,27 @@
+#titulo1 {
+    font-size: 6rem;
+    text-align: center;
+    padding-top: 1rem;
+    border: 0rem;
+    margin: 0rem;
+}
+
+#titulo2 {
+    font-size: 4rem;
+    text-align: center;
+    padding: 0rem;
+    border: 0rem;
+    margin: 0rem;
+
+}
+
+#menulink {
+    font-size: 2rem;
+    text-align: center;
+    padding: 3rem;
+
+}
+
+body {
+    background-color: peachpuff;
+}
