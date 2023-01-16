@@ -17,11 +17,17 @@
 
 #menulink {
     font-size: 2rem;
-    text-align: center;
     padding: 3rem;
+    text-decoration: none;
+    text-align: center;
+    background-color: aqua;
+
 
 }
+
 
 body {
     background-color: peachpuff;
 }
+
+#logotipo {}
