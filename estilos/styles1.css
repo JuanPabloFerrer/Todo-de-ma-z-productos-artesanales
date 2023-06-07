@@ -10,7 +10,7 @@ body {
     padding-top: 1rem;
     border: 0rem;
     margin: 0rem;
-    grid-column: span 6, 8 ;
+    grid-column: span 6, 8;
 }
 
 #titulo2 {
@@ -27,7 +27,7 @@ body {
     padding: 3rem;
     text-decoration: none;
     text-align: center;
-    background-color:rgb(103, 12, 81);
+    background-color: #748E62;
     grid-column: span 12;
 
 
@@ -39,7 +39,7 @@ body {
 
 
 body {
-    background-color: peachpuff;
+    background-color: whitesmoke;
 }
 
 .enmedio {
@@ -49,7 +49,7 @@ body {
 .left {
     text-align: left;
     padding-right: 131px;
-    border-left: 4px rgb(103, 12, 81) dotted;
+    border-left: 4px #748E62 dotted;
     padding-left: 30px;
     padding-top: 30px;
     margin: 30px;
