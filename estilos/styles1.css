@@ -27,14 +27,14 @@ body {
     padding: 3rem;
     text-decoration: none;
     text-align: center;
-    background-color: #748E62;
+    background-color: rgb(234, 186, 32);
     grid-column: span 12;
 
 
 }
 
 #link {
-    color: rgb(224, 84, 0);
+    color: #748E62;
 }
 
 

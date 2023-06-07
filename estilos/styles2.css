@@ -1,0 +1,29 @@
+#menulink {
+    font-size: 2rem;
+    padding: 3rem;
+    text-decoration: none;
+    text-align: center;
+    background-color: rgb(234, 186, 32);
+    grid-column: span 12;
+
+
+}
+
+#link {
+    color: #748E62;
+}
+
+#menu {
+    display: flex;
+    justify-content: center;
+
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+#fo {
+    margin: 3rem;
+
+}
